@@ -1,0 +1,5 @@
+{
+  "name": "Zapcharger EV",
+  "description": "A full-stack EV charging station reservation platform with real-time availability tracking.",
+  "requestFramePermissions": ["geolocation"]
+}
